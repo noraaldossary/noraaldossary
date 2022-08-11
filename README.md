@@ -1,9 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="200"/>
+</div>
+
+### Hi There 👋
+
+### :woman_technologist: About Me :
+- Freshly graduated computer science student 
+- I have knowledge in: HTML - C++ - Java
+- I'm intrested in: AI, ML and Web appplication programming
 
 <!--
 **noraaldossary/noraaldossary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
