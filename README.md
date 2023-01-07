@@ -5,9 +5,9 @@
 ### Hi There 👋
 
 ### :woman_technologist: About Me :
-- Freshly graduated computer science student 
-- I have knowledge in: HTML - C++ - Java
-- I'm intrested in: AI, ML and Web appplication programming
+- Fresh graduate majoring in Computer Science
+- I have knowledge in: HTML, C++, Java
+- I'm intrested in: AI, Data analysis and Web appplication programming
 
 <!--
 **noraaldossary/noraaldossary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
